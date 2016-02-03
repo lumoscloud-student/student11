@@ -1,10 +1,5 @@
 # student11
-Modified on October 28
-
-
-
-
-Maybe yes maybe no
-
-
-I changed it
+Modified on 3 February by joelliot
+1
+2
+3
